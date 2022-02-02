@@ -22,9 +22,6 @@ Your weekly workflow to access lecture and exercise notebooks (also depends on y
 ![gds_intro_02](https://user-images.githubusercontent.com/73348979/152125406-ef83e747-b01d-4539-a7c7-0254133fa214.png)
 
 
-
-
-
-
+➡️ Link to all instructions for installations and running the environment: https://gdsl-ul.github.io/soft_install/
 
 
