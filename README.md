@@ -15,7 +15,7 @@ Please use the GDS environment you have installed to run the exercises.
 ### Getting started
 What and how to install depends on your operating system. Use the guide below to determine which one applies to you.
 
-![gds_intro_01](https://user-images.githubusercontent.com/73348979/152124941-299b292f-ab3b-416b-9e19-0a2949519253.png)
+![gds_intro_01](https://user-images.githubusercontent.com/73348979/152125309-b2184bf2-c01b-4b81-a3fe-3f7fc9424ed8.png)
 
 ### Running the environment
 Your weekly workflow to access lecture and exercise notebooks (also depends on your operating system).
