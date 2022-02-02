@@ -15,7 +15,8 @@ Please use the GDS environment you have installed to run the exercises.
 ### Getting started
 What and how to install depends on your operating system. Use the guide below to determine which one applies to you.
 
-![test][https://github.com/anerv/GDS2022_exercises/blob/main/images/gds_intro_01.png]
+***INSERT DIAGRAM HERE***
+
 
 ### Running the environment
 Your weekly workflow to access lecture and exercise notebooks (also depends on your operating system).
