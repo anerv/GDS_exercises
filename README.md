@@ -1,6 +1,5 @@
 # :globe_with_meridians: Geospatial Data Science // Spring 2022 :globe_with_meridians:
 
-
 ## Welcome to the exercise sessions for the course in geospatial data science!
 
 In this repository you will find the exercises for each session.
@@ -20,8 +19,9 @@ What and how to install depends on your operating system. Use the guide below to
 ### Running the environment
 Your weekly workflow to access lecture and exercise notebooks (also depends on your operating system).
 
+![gds_intro_02](https://user-images.githubusercontent.com/73348979/152125406-ef83e747-b01d-4539-a7c7-0254133fa214.png)
 
-***INSERT DIAGRAM HERE***
+
 
 
 
