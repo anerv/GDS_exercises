@@ -1,4 +1,4 @@
-pysal.lib
+pysal
 geopandas
 pandas
 numpy
