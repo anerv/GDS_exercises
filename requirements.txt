@@ -1,0 +1,6 @@
+geopandas
+pandas
+numpy
+seaborn
+contextily
+pysal.lib
