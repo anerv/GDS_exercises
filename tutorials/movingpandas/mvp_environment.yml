@@ -1,0 +1,31 @@
+name: mpd-ex
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.7
+  - bokeh
+  - cartopy==0.19.0
+  - cython
+  - esda
+  - folium
+  - geopandas
+  - geopy
+  - geoviews
+  - hvplot
+  - jupyterlab
+  - matplotlib
+  - movingpandas
+  - networkx
+  - numpy
+  - osmnx
+  - pandas
+  - panel
+  - proj
+  - rasterio
+  - scikit-learn
+  - seaborn
+  - shapely<1.8
+  - spaghetti
+  - splot
+  - stonesoup
