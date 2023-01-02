@@ -1,6 +1,6 @@
-# :globe_with_meridians: Geospatial Data Science // Spring 2022 :globe_with_meridians:
+# :globe_with_meridians: Geospatial Data Science // Spring 2023 :globe_with_meridians
 
-## Welcome to the exercise sessions for the course in geospatial data science!
+## Welcome to the exercise sessions for the course in geospatial data science
 
 In this repository you will find the exercises for each session.
 
@@ -9,19 +9,17 @@ In this repository you will find the exercises for each session.
 :question: Use the **[Q&A forum](https://learnit.itu.dk/mod/forum/view.php?id=152405)** on LearnIT for questions.  
 :question: We will check it regularly, but invite all course participants to contribute with answers and ideas.
 
-Please use the GDS environment you have installed to run the exercises.
-
 ### Getting started
-What and how to install depends on your operating system. Use the guide below to determine which one applies to you.
 
-![gds_intro_01](https://user-images.githubusercontent.com/73348979/152125309-b2184bf2-c01b-4b81-a3fe-3f7fc9424ed8.png)
+Please use the guide in LearnIT to install the [GDS environment](https://darribas.org/gds_env/). We will use this environment to run the exercises.
 
 ### Running the environment
+
 Your weekly workflow to access lecture and exercise notebooks (also depends on your operating system).
 
-![gds_intro_02](https://user-images.githubusercontent.com/73348979/152125406-ef83e747-b01d-4539-a7c7-0254133fa214.png)
-
-
-➡️ Link to all instructions for installations and running the environment: https://gdsl-ul.github.io/soft_install/
-
-
+1. Save files to *folder of your choice*
+    a. Files for lectures: Zip folders on LearnIT
+    b. Files for exercises: This GitHub repository
+2. Open a terminal window, navigate to the folder with your files and run `docker run --rm -ti -p 8888:8888 -v ${PWD}:/home/jovyan/work darribas/gds_py:8.0` (see <https://darribas.org/gds_env/guides/docker_install/> for details)
+3. Open your browser, go to *localhost:8888*, and insert the token printed on the terminal
+4. You are now ready to run the exercise notebooks etc. using the gds_py environment ⭐
