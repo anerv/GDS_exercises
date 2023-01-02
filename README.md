@@ -6,7 +6,7 @@ In this repository you will find the exercises for each session.
 
 **:star2: Please check that you have the latest version of the exercise file before you begin, as we might modify the exercises during the course.**
 
-:question: Use the **[Q&A forum](https://learnit.itu.dk/mod/forum/view.php?id=152405)** on LearnIT for questions.  
+:question: Use the **[Q&A forum](https://learnit.itu.dk/mod/forum/view.php?id=171258)** on LearnIT for questions.  
 :question: We will check it regularly, but invite all course participants to contribute with answers and ideas.
 
 ### Getting started
