@@ -1,4 +1,4 @@
-# :globe_with_meridians: Geospatial Data Science // Spring 2023 :globe_with_meridians
+# 🌐 Geospatial Data Science // Spring 2023 🌐
 
 ## Welcome to the exercise sessions for the course in geospatial data science
 
