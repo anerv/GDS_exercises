@@ -15,7 +15,7 @@ Please use the guide in LearnIT to install the [GDS environment](https://darriba
 
 ### Running the environment
 
-Your weekly workflow to access lecture and exercise notebooks (also depends on your operating system).
+Your weekly workflow to access lecture and exercise notebooks (if you've used the default install with Docker)
 
 1. Save files to *folder of your choice*
     a. Files for lectures: Zip folders on LearnIT
