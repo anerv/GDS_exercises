@@ -1,0 +1,12 @@
+name: mvp_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - movingpandas
+  - ipykernel
+  - hvplot
+  - cartopy
+  - geoviews
+  - pyproj
+prefix: /opt/miniconda3/envs/mvp_env
