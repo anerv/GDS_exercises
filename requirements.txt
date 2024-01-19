@@ -1,6 +1,0 @@
-pysal
-geopandas
-pandas
-numpy
-seaborn
-contextily
