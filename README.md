@@ -1,4 +1,4 @@
-# 🌐 Geospatial Data Science // Spring 2023 🌐
+# 🌐 Geospatial Data Science // Spring 2024 🌐
 
 ## Welcome to the exercise sessions for the course in geospatial data science
 
